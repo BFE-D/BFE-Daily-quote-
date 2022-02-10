@@ -7,7 +7,7 @@ quote = []
 try:
  var1 = sys.argv[1]
 except:
- print("Usage: \nquote.py LANGUAGE \n \nCurrently supported languages: \nEnglish (100%) \nSpanish (50%) \nFrench (7%) \nPolish (3%)")
+ print("Usage: \nquote.py LANGUAGE \n \nCurrently supported languages: \nEnglish (100%) \nPortuguese (100%)\nRussian (100%)\nSwedish (100%)\nSpanish (100%) \nFrench (7%) \nPolish (3%)")
  exit()
 f = open("lang/Bfed_" + var1 + ".json")
 data = json.load(f)

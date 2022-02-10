@@ -5,6 +5,9 @@ Due to the large amount of quotes and target languages it has become increasingl
 
 Currently supported languages: 
 English (100%) 
-Spanish (50%) 
+Portuguese (100%)
+Russian (100%)
+Swedish (100%)
+Spanish (100%) 
 French (7%) 
-Polish (3%) 
+Polish (3%)
